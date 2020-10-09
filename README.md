@@ -54,7 +54,7 @@ GREAT BRITAIN
 
 ## Top Five Liked Videos
 USA
-![](images/USA_TopFive_Liked(new).png)
+![](new_images/USA_TopFive_Liked.png)
 ![](images/TopFiveLikedRatios.png)
 
 GREAT BRITAIN
