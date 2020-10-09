@@ -32,6 +32,9 @@ Commentary
 ## Top Five most disliked videos
 
 ## Top Five liked videos
+USA
+![](images/TopFiveLiked_USA.png)
+![](images/TopFiveLikedRatios.png)
 
 ## Top Five most commented videos
 
