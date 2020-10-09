@@ -36,7 +36,6 @@ USA
 ![](images/TopFiveLiked_USA.png)
 ![](images/TopFiveLikedRatios.png)
 
-## Top Five most commented videos
-
 ## Top Five most polarized videos
-
+USA
+![](images/Top5MostPolarizing_USA.png)
