@@ -26,6 +26,7 @@ The questions we decided to explore are:
 ## Top Five Most Viewed Videos 
 USA
 ![](images/USA_TopFive_viewed.png)
+![](images/ChildishGambino.png)
 
 GREAT BRITAIN
 ![](images/gb_top_5_viewed_(barh).png)
@@ -69,5 +70,7 @@ GREAT BRITAIN
 ![](images/gb_polarization_(barh).png)
 
 
-Conclusion: 
-USA and Great Britain had pretty similar YouTube data results which we figured would be the case. USA and Great Britain both had their most viewed and most liked videos for the music genre. It was apparent that India had different types of videos that were most viewed revolving more around movies and technology. We found the results for the Most Polarized Videos was interesting and there were some videos involving politics which was to be expected [abs(dislike_ratio - like_ratio)]
+## Conclusion: 
+USA and Great Britain had pretty similar YouTube data results which we figured would be the case. USA and Great Britain both had their most viewed and most liked videos for the music genre. It was apparent that India had different types of videos that were most viewed revolving more around movies and technology. 
+
+We found the results for the Most Polarized Videos was very interesting and there were some videos involving politics and sports which makes sense. [abs(dislike_ratio - like_ratio)]
