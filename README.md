@@ -23,14 +23,19 @@ The questions we decided to explore are:
 4. Top Five most commented vidoes
 5. Top Five most polarized videos (defined by ratio of likes to dislikes)
 
-### Top Five most  viewed videos 
+## Top Five most  viewed videos 
 USA
-INdia
-GB
+![](images/Top5Viewed_USA.png)
 
-[!](file.png)
+Commentary 
 
-COmmentary 
+## Top Five most disliked videos
 
-### Top Five most disliked videos
+## Top Five liked videos
+USA
+![](images/TopFiveLiked_USA.png)
+![](images/TopFiveLikedRatios.png)
 
+## Top Five most polarized videos
+USA
+![](images/Top5MostPolarizing_USA.png)
