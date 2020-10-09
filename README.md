@@ -31,11 +31,18 @@ GREAT BRITAIN
 ![](images/gb_top_5_viewed_(barh).png)
 
 INDIA
-![](images/top_5_most_viewed_india)
+![](images/top_5_most_viewed_india.png)
 
 Commentary 
 
 ## Top Five most disliked videos
+
+USA
+![](images/USA_Top5_Disliked_Ratio.png)
+
+INDIA
+![](images/grouped_dislikes.png)
+![](images/dislike_ratio.png)
 
 GREAT BRITAIN
 ![](images/gb_top_5_dislikes_(barh).png)
