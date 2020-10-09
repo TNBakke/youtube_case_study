@@ -25,7 +25,7 @@ The questions we decided to explore are:
 
 ## Top Five Most Viewed Videos 
 USA
-![](images/Top5Viewed_USA.png)
+![](images/USA_TopFive_viewed.png)
 
 GREAT BRITAIN
 ![](images/gb_top_5_viewed_(barh).png)
