@@ -13,7 +13,7 @@ After reviewing the data we decided to answer a series of questions segemented b
 - Great Britain
 - India
 
-##The Dataset:
+## The Dataset:
 We were fortunate to work with a dataset that had values for each column so we did not have to spend much time munging the data so we were able to start working on our data analysis immediately.
 
 The questions we decided to explore are:
