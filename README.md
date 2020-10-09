@@ -43,7 +43,7 @@ USA
 
 INDIA
 ![](new_images/most_disliked.png)
-![](new_images/disliked_ratio.png)
+
 
 GREAT BRITAIN
 ![](images/gb_top_5_dislikes_(barh).png)
@@ -60,11 +60,13 @@ GREAT BRITAIN
 
 INDIA
 ![](new_images/most_liked(1).png)
-![](new_images/like_ratio(1).png)
+
 
 ## Top Five Most Polarized Videos
 USA
 ![](images/Top5MostPolarizing_USA.png)
+
+![](images/TrumpTaxBill.png)
 
 GREAT BRITAIN
 ![](images/gb_polarization_(barh).png)
