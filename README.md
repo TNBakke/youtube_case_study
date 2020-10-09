@@ -31,7 +31,7 @@ GREAT BRITAIN
 ![](images/gb_top_5_viewed_(barh).png)
 
 INDIA
-![](images/top_5_most_viewed_india.png)
+![](new_images/most_viewed.png)
 
 Commentary 
 
@@ -41,8 +41,8 @@ USA
 ![](images/USA_Top5_Disliked_Ratio.png)
 
 INDIA
-![](images/grouped_dislikes.png)
-![](images/dislike_ratio.png)
+![](new_images/most_disliked.png)
+![](new_images/disliked_ratio.png)
 
 GREAT BRITAIN
 ![](images/gb_top_5_dislikes_(barh).png)
@@ -58,8 +58,8 @@ GREAT BRITAIN
 ![](gb_like_ratio(barh).png)
 
 INDIA
-![](images/most_liked.png)
-![](images/like_ratio.png)
+![](new_images/most_liked(1).png)
+![](new_images/like_ratio(1).png)
 
 ## Top Five Most Polarized Videos
 USA
