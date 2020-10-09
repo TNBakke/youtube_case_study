@@ -23,7 +23,7 @@ The questions we decided to explore are:
 4. Top Five most commented vidoes
 5. Top Five most polarized videos (defined by ratio of likes to dislikes)
 
-## Top Five most  viewed videos 
+## Top Five Most Viewed Videos 
 USA
 ![](images/Top5Viewed_USA.png)
 
@@ -31,7 +31,7 @@ GREAT BRITAIN
 ![](images/gb_top_5_viewed_(barh).png)
 
 INDIA
-![](top_5_most_viewed_india)
+![](images/top_5_most_viewed_india)
 
 Commentary 
 
@@ -48,9 +48,11 @@ USA
 
 GREAT BRITAIN
 ![](images/gb_top_5_liked_(barh).png)
+![](gb_like_ratio(barh).png)
 
 INDIA
 ![](images/most_liked.png)
+![](images/like_ratio.png)
 
 ## Top Five most polarized videos
 USA
