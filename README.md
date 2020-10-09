@@ -27,15 +27,34 @@ The questions we decided to explore are:
 USA
 ![](images/Top5Viewed_USA.png)
 
+GREAT BRITAIN
+![](images/gb_top_5_viewed_(barh).png)
+
+INDIA
+![](top_5_most_viewed_india)
+
 Commentary 
 
 ## Top Five most disliked videos
+
+GREAT BRITAIN
+![](images/gb_top_5_dislikes_(barh).png)
+![](images/gb_dislike_ratio(barh).png)
 
 ## Top Five liked videos
 USA
 ![](images/TopFiveLiked_USA.png)
 ![](images/TopFiveLikedRatios.png)
 
+GREAT BRITAIN
+![](images/gb_top_5_liked_(barh).png)
+
+INDIA
+![](images/most_liked.png)
+
 ## Top Five most polarized videos
 USA
 ![](images/Top5MostPolarizing_USA.png)
+
+GREAT BRITAIN
+![](images/gb_polarization_(barh).png)
