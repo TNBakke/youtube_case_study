@@ -9,6 +9,8 @@ What is the point of all this writing, let's see if we can link to within this d
 - [Context](#context)
 - [Something else](#something else)
 
+<!-- toc -->
+
 [Part I](#Part I)\
 
 [Part II](#Part II)
