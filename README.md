@@ -7,8 +7,8 @@ What is the point of all this writing, let's see if we can link to within this d
 [Introduction](#introduction)
 - [Background](#background)
 - [Context](#context)
-- [Something else](#something else)\
-\
+- [Something else](#something else)
+
 [Part I](#Part I)\
 \
 [Part II](#Part II)
