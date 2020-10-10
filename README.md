@@ -4,13 +4,13 @@ What is the point of all this writing, let's see if we can link to within this d
 
 ## Table of Contents
 
-[Introduction](#introduction)
+[Introduction](#Introduction)
 - [Background](#background)
 - [Context](#context)
 - [Something else](#something else)
 
 [Part I](#Part I)\
-\
+
 [Part II](#Part II)
 
 ### Introduction
