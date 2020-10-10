@@ -15,15 +15,14 @@ What is the point of all this writing, let's see if we can link to within this d
 ### Introduction
 Hi this is a great project.
 
-#### Background
-THere is no background here
+### Background
+There is no background here
 
-#### Context?
+### Context?
 Who knows?
 
-#### Something else
+### Something else
 ANything else to comment on?
-
 
 ### Part I
 Ok now comes the cool part.
